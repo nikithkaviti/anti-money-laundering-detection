@@ -1,0 +1,6 @@
+{
+  "name": "AML Shield - Anti-Money Laundering Detection",
+  "description": "Production-ready AML transaction monitoring platform with graph anomaly detection, circular routing, structuring/smurfing analysis, interactive network graph, and SAR reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
